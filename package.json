@@ -1,7 +1,7 @@
 {
   "name": "trash-bot-ai",
   "version": "1.0.0",
-  "type": "module",
+  "type": "common.js",
   "main": "app.js",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
