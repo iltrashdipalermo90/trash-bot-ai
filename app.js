@@ -98,3 +98,4 @@ app.post('/start', (req, res) => {
 });
 app.get('/', (_, res) => res.send('Bot attivo'));
 app.listen(process.env.PORT || 3000, () => console.log('Server on'));
+startSession();
